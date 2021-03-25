@@ -8,12 +8,11 @@ package prueba.modelo;
 
 public class Saludo {
 
-	 
 	public Saludo() {
 
 	}
- 
-	public String  saludar(String nombre) {
-		return "Hola " + nombre;
+
+	public String saludar(String nombre) {
+		return "Hi " + nombre;
 	}
 }
