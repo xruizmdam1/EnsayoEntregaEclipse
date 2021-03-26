@@ -1,4 +1,4 @@
-package prueba.test;
+ package prueba.test;
 
 import prueba.modelo.Saludo;
 
@@ -16,6 +16,7 @@ public class PruebaGitEclipse {
 		System.out.println(saludo.saludar("Juan"));
 		System.out.println(saludo.saludar("Isabel"));
 		System.out.println(saludo.saludar("Luis"));
+		System.out.println(saludo.saludar("Pepe"));
 
 	}
 
